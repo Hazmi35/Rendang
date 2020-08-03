@@ -1,2 +1,1 @@
-# rendang
-## (WIP) :P
+# rendang (WIP) :P
