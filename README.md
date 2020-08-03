@@ -1,2 +1,2 @@
 # rendang
-WORK IN PROGRESS
+## (WIP) :P
